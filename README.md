@@ -1,0 +1,2 @@
+# Software-Development-Project
+This was a group project done for the ICT with a specialism in Software Engineering diploma program at Asia Pacific University. I was responsible for the front end aspect of this project, using HTML and CSS. This project was essentially a free education program for kids to teenagers that provided exercises, reading, and past year papers for students to study and learn from.
